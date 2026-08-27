@@ -1,0 +1,8 @@
+Process diagram
+The diagram outlines the eight stage linear process of manufacturing sugar from sugar cane, beginning with cultivation and ending with the final dried product.
+
+The process commences with the growing phase, where sugar canes are cultivated over a period of 12 to 18 months until they reach maturity. Once ready, they are harvested, either manually or mechanically, and then transported to a processing facility.
+
+The next stage involves crushing the harvested canes to extract the raw juice. This juice is then purified by passing it through a limestone filter, which removes impurities and solid particles. Following purification, the clear juice is transferred to an evaporator, where it is heated to concentrate it into a thick syrup. This syrup then enters a centrifuge, a machine that spins rapidly to separate the sugar crystals from the remaining liquid. Finally, the separated crystals are dried and cooled to produce the granulated sugar that is packaged for sale.
+
+In conclusion, the sugar production process is a sequential operation that transforms raw sugar cane into refined sugar through mechanical extraction, chemical purification, thermal concentration, and physical separation, with the final drying stage ensuring a stable, marketable product.

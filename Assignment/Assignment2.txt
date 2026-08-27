@@ -1,0 +1,33 @@
+Bar Chart
+The table presents the number of male and female students enrolled in six art related subjects at a UK university in 2011. Overall, female students outnumbered males in most disciplines, with the largest gender gap observed in Philosophy, while Art and Design was the only subject where male students were more numerous.
+
+In Linguistics, female students 240 slightly exceeded males 190, a difference of 50. A similar pattern appears in English Language and Literature, where female enrolment 250 was marginally higher than male 230. History and Archaeology also had more female students 120 than male 95, a gap of 25. Communication and Media Studies showed a small female majority, with 220 women compared to 210 men.
+
+The most striking disparity was in Philosophy, where female students 150 tripled the male count 50, making it the subject with the strongest female dominance. Conversely, Art and Design was the only field with a male majority: 180 men versus 160 women, a moderate difference of 20.
+
+In terms of total enrolment, English Language and Literature attracted the highest number of students 480, while Philosophy had the lowest 200. Overall, the data reveal that, except for Art and Design, female students tended to outnumber males across these humanities disciplines in 2011.
+
+
+
+
+
+Pie Chart
+The pie chart illustrates the allocation of the UAE governments total budget of AED 315 billion across nine sectors in the year 2000. Overall, Social Security received the largest share of funding, while Transport was the smallest expenditure category. Notably, over half of the total budget was concentrated in just three areas.
+
+Social Security dominated government spending, with AED 100 billion, accounting for nearly one third of the entire budget. Health and Personal Social Services followed as the second largest category, receiving AED 53 billion. Education was the third major beneficiary, with an allocation of AED 38 billion. Together, these three sectors absorbed more than AED 190 billion, representing about 61% of total expenditure.
+
+At the other end of the scale, Transport received the least funding, at only AED 9 billion. Defense and Law and Order received relatively moderate allocations of AED 22 billion and AED 17 billion, respectively. Debt Interest and Other Expenditure each received AED 23 billion, making them the fourth largest categories. Housing, Heritage and Environment received AED 15 billion, while Industry, Agriculture and Employment was allocated AED 13 billion.
+
+In conclusion, the UAE government in 2000 prioritized social welfare, health, and education, with Social Security alone consuming a substantial portion of the national budget, whereas infrastructure like Transport received comparatively negligible funding.
+
+
+
+
+Map
+Based on the maps provided, the images illustrate the significant urban and suburban development that has occurred in Meadowside village and the neighboring town of Fonton between 1962 and 1985.
+
+In 1962, Meadowside and Fonton were two distinct, separate settlements with a clear gap of countryside between them. Meadowside was a small, self-contained village located to the east of Fonton, while Fonton was a larger town to the west. A main road connected the two areas, but they were otherwise isolated from one another.
+
+By 1985, profound changes had taken place, effectively merging the two areas into a single continuous builtup zone. The most notable development is the construction of a large housing estate situated precisely in the gap between Meadowside and Fonton, which physically connects the village to the town. Furthermore, a new business park was established just south of this housing estate, adjacent to a main road, and a superstore was built nearby to serve the growing population.
+
+In conclusion, the period from 1962 to 1985 witnessed the transformation of a rural village and a separate town into an integrated suburban area, driven largely by new housing, commercial facilities, and the bridging of the previously open countryside.
