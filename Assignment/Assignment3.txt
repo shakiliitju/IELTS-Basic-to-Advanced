@@ -1,0 +1,33 @@
+Line graph
+The line graph illustrates the number of shop closures and new shop openings in a single country over an eight year period from 2011 to 2018. Overall, both closures and openings experienced downward trends, with shop openings generally exceeding closures in the early years, but this pattern reversed by the end of the period.
+
+In 2011, openings were noticeably higher than closures, with approximately 6200 new shops compared to around 5800 closures. However, the following year saw a sharp decline in openings, which fell to about 4000, while closures also decreased to roughly 5200. By 2013, openings reached a low of about 3500, while closures remained relatively stable at around 5000, marking the first year where closures clearly outnumbered openings.
+
+Between 2014 and 2015, the number of openings recovered to approximately 6000, whereas closures dropped to their lowest point of about 4000 during this period. From 2015 onwards, however, both figures generally declined. Openings fluctuated but ultimately fell to around 3000 by 2018, while closures, despite a slight rise in 2016, dropped steadily to approximately 4,000 by the end of the period.
+
+In conclusion, while shop openings initially surpassed closures, the overall trend shows a decline in both, with closures consistently exceeding openings after 2012, reflecting a possible contraction in the retail sector.
+
+
+
+
+
+Mix Chart
+The two charts provide data on the average weekly working hours and the distribution of stress-related illnesses among eight professional groups. Overall, there is a clear correlation between longer working hours and higher stress levels, with business men and lawyers being the most affected groups.
+
+According to the bar chart, business men work the longest hours, averaging approximately 60 hours per week, closely followed by lawyers at around 55 hours. Doctors and movie producers also report relatively high working hours, with both groups averaging about 50 hours weekly. In contrast, writers and lecturers have the lowest workloads, working approximately 35 and 30 hours per week, respectively. Chefs and programmers fall in the middle range, with around 45 and 40 hours per week.
+
+The pie chart reveals that business men account for the largest proportion of stress related illnesses, at 25%, which aligns with their status as the group working the longest hours. Lawyers represent the second highest percentage, at 20%, while doctors and movie producers each account for 15%. Chefs and programmers have moderate shares of 11% and 8%, respectively. Lecturers and writers are the least affected, with 5% and 1% of stress related cases, reflecting their shorter working hours.
+
+In conclusion, the data strongly suggest that professions demanding longer working hours tend to experience higher rates of stress related health issues. Business men and lawyers, who work the most, face the greatest risk, while writers and lecturers, with shorter hours, have the lowest incidence of such illnesses. This pattern highlights the need for work life balance measures, particularly in high pressure occupations.
+
+
+
+
+Table
+The table compares the monthly expenses of a used bookstore in Scotland for January and December 2018, showing changes across eight cost categories. Overall, total expenditure rose significantly from 4758 in January to 6571 in December, driven primarily by a substantial rise in rent.
+
+Rent was the largest expense in both months, but it increased dramatically from 3222 in January to 4909 in December, accounting for the majority of the overall cost surge. This rise alone contributed over 1600 to the total increase. Utilities, on the other hand, saw a notable decrease, falling from 455 to 265, a reduction of nearly 42%.
+
+Marketing expenses increased from 263 to 355, while Professional Fees more than doubled, rising from 51 to 132. Maintenance costs also rose sharply from 10 to 42, albeit from a very low base. Other expenses grew from 444 to 599. Conversely, Wages and Benefits decreased from 260 to 226, and Equipment costs fell slightly from 53 to 43.
+
+In conclusion, while the bookstore controlled some costs like utilities and wages, the sharp rise in rent and several other expenses led to a substantial overall increase in total monthly expenditure between January and December 2018. This suggests that the store faced significantly higher operating costs by the end of the year.
